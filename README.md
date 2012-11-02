@@ -144,13 +144,13 @@ There are two other options, besides `showMenuFx` and `hideMenuFx`:
   </tr>
   <tr>
     <td>isSkippable</td>
-    <td>Whether the toolbar provides a link to skip navigation. See <a href="#accessibility">Navigation and accessibility</a>.</td>
+    <td>Whether the toolbar provides a link to skip navigation. See <a href="#navigation-and-accessibility">Navigation and accessibility</a>.</td>
     <td>Boolean</td>
     <td>true</td>
   </tr>
   <tr>
     <td>skipNavigationTarget</td>
-    <td>ID or name of the element referenced by the skip navigation link. See <a href="#accessibility">Navigation and accessibility</a>.</td>
+    <td>ID or name of the element referenced by the skip navigation link. See <a href="#navigation-and-accessibility">Navigation and accessibility</a>.</td>
     <td>Boolean</td>
     <td>false</td>
   </tr>
