@@ -12,7 +12,7 @@ You can...
 
 + Create custom themes suitable to your page design
 
-[Visit the demo page!](http://www.bplaced.net/pecherstorfer/lab/js-toolbar/demo.html)
+[Visit the demo page!](http://pecherstorfer.bplaced.com/lab/js-toolbar/)
 
 The toolbar is JavaScript driven, implemented as a jQuery plugin, conforming to AMD.
 It can be bound to an unordered list element, using jQuery selectors.
@@ -74,7 +74,7 @@ Just supply menu effect options when binding the toolbar to the underlying list 
     	});
     });
 
-Visit the [demo page](http://www.bplaced.net/pecherstorfer/lab/js-toolbar/demo.html) to try out supported effects.
+Visit the [demo page](http://pecherstorfer.bplaced.com/lab/js-toolbar/) to try out supported effects.
 
 ### Options for animated menus using basic jQuery effects
 <table>
@@ -170,7 +170,7 @@ Example:
 ## Other CSS classes
 <table>
   <tr>
-    <th>CSS class</th><th>Description</th><th>Element</th>
+    <th>CSS class</th><th>Description</th>
   </tr>
   <tr>
     <td>disabled</td>
@@ -189,8 +189,8 @@ Example:
 ## Themes
 js-toolbar comes with a minimalist default theme included within `toolbar.css`, and two external theme files located in the `themes` directory. To create a custom theme it's easist to change one of the two existing themes.
 
-## Navigation and accessibility
-<span id="accessibility">js-toolbar</span> is designed for users with keyboard, mouse, touchscreen, and screen-reader devices.
+<h2 id="accessibility">Navigation and accessibility</h2>
+js-toolbar is designed for users with keyboard, mouse, touchscreen, and screen-reader devices.
 
 It captures arrow key events in order to support scanning toolbar and menu buttons using 'left', 'right', 'up', and 'down' arrow keys. It also captures escape key events in order to close open menus. Other keys are not affected so you can linearly scan the toolbar using the tab key and activate individual buttons using the enter key.
 
