@@ -12,7 +12,7 @@ You can...
 
 + Create custom themes suitable to your page design
 
-[Visit the demo page!](http://pecherstorfer.bplaced.com/lab/js-toolbar/)
+[Visit the demo page!](http://www.pecherstorfer.bplaced.com/lab/js-toolbar/)
 
 The toolbar is JavaScript driven, implemented as a jQuery plugin, conforming to AMD.
 It can be bound to an unordered list element, using jQuery selectors.
